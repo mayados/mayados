@@ -51,3 +51,6 @@ I had a training in web development which allowed me to practice and learn a lot
 ## Design patterns :
 
 ![MVC (design Pattern)](https://img.shields.io/badge/MVC%20(design%20Pattern)-E6AD34?style=for-the-badge)  ![MVP](https://img.shields.io/badge/MVP-B491E1?style=for-the-badge)
+
+## En train d'apprendre - Currently learning :
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
