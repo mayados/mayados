@@ -1,7 +1,7 @@
 
 Bonjour ! :wave:
 
-Je m'appelle Marianne, je vis à Strasbourg et je suis passionnée par le développement :computer: aussi bien que front-end et back-end.
+Je m'appelle Marianne, je vis à Strasbourg et je suis passionnée par le développement :computer: aussi bien front-end que back-end.
 J'ai suivi une formation en développement web qui m'a permis de pratiquer et d'apprendre plein de choses (Programmation Orientée Objet, utilisation du framework Symfony, conceptualisation de bases de données, HTML5, CSS3, PHP, JavaScript, utilisation d'API etc..). Vous pouvez voir cela dans les sections ci-dessous :smiley:  
 
 Hi ! :wave:
