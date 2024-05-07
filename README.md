@@ -27,20 +27,21 @@ I had a training in web development which allowed me to practice and learn a lot
 
 ## Langages / méthodes - Languages / methods:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=000000)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=000000)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=000000)  ![Doctrine Query Language](https://img.shields.io/badge/Doctrine%20Query%20Language-FBAC02?style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-428493?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=000000)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=000000)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=000000)  ![Doctrine Query Language](https://img.shields.io/badge/Doctrine%20Query%20Language-FBAC02?style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-428493?style=for-the-badge) ![C Sharp](https://img.shields.io/badge/C%20Sharp-7822CE?style=for-the-badge&logoColor=7822CE) ![SASS](https://img.shields.io/badge/SASS-EA73DD?style=for-the-badge&logoColor=EA73DD)
 
 ![API](https://img.shields.io/badge/API-C7F1B3?style=for-the-badge)  ![AJAX](https://img.shields.io/badge/AJAX-C7EBF3?style=for-the-badge)
 
 
-## Framework :
+## Frameworks :
 
 
 ![Symfony](https://img.shields.io/badge/Symfony-EFEFEF?style=for-the-badge&logo=Symfony&logoColor=000000)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 ## Outils / environnement - tools / environment
 
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=000000)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=000000)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0E83CD?style=for-the-badge&logo=Visual Studio)
 
 
 ## Conception base de données - databases conception
@@ -52,5 +53,3 @@ I had a training in web development which allowed me to practice and learn a lot
 
 ![MVC (design Pattern)](https://img.shields.io/badge/MVC%20(design%20Pattern)-E6AD34?style=for-the-badge)  ![MVP](https://img.shields.io/badge/MVP-B491E1?style=for-the-badge)
 
-## En train d'apprendre - Currently learning :
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
