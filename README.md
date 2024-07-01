@@ -41,7 +41,7 @@ I had a training in web development which allowed me to practice and learn a lot
 
 ## Outils / environnement - tools / environment
 
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=000000)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0E83CD?style=for-the-badge&logo=Visual Studio)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=000000)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0E83CD?style=for-the-badge&logo=Visual-Studio)
 
 
 ## Conception base de données - databases conception
