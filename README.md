@@ -1,12 +1,12 @@
 
 Bonjour ! :wave:
 
-Je m'appelle Marianne, je vis à Strasbourg et je suis passionnée par le développement :computer: aussi bien front-end que back-end.
+Je m'appelle Marianne, je vis à Illkirch-Graffenstaden et je suis passionnée par le développement :computer: aussi bien front-end que back-end.
 J'ai suivi une formation en développement web qui m'a permis de pratiquer et d'apprendre plein de choses (Programmation Orientée Objet, utilisation du framework Symfony, conceptualisation de bases de données, HTML5, CSS3, PHP, JavaScript, utilisation d'API etc..). Vous pouvez voir cela dans les sections ci-dessous :smiley:  
 
 Hi ! :wave:
 
-My name is Marianne, I'm living in Strasbourg (France) and I'm passionate about developpment (front-end and back-end).
+My name is Marianne, I'm living in Illkirch-Graffenstaden (France) and I'm passionate about developpment (front-end and back-end).
 I had a training in web development which allowed me to practice and learn a lot of things (Oriented Object Programmation, use of framework Symfony, conceptualization of databases, HTML5, CSS3, JavaScript, PHP, API etc..). You can find it all on the sections bellow :smiley:
 
 
